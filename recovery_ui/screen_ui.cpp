@@ -79,7 +79,7 @@ struct Rgb {
   uint8_t r, g, b;
 };
 
-constexpr uint32_t kDefaultRecoveryAccent = 0xFE2712;
+constexpr uint32_t kDefaultRecoveryAccent = 0x1A6CF0;
 constexpr uint32_t kDefaultFastbootdAccent = 0xE65100;
 
 constexpr Rgb kBlack{ 0x00, 0x00, 0x00 };
